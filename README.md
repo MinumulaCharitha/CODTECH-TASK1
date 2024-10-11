@@ -24,3 +24,5 @@ Training set: Used to train the AI model.
 Validation set: Used to tune model hyperparameters and validate its performance during training.
 Test set: A separate set used to evaluate the model’s performance after training to ensure it generalizes well to unseen data.
 This step is crucial to avoid overfitting, where the model performs well on training data but poorly on new, unseen data.
+![Screenshot 2024-10-11 210540](https://github.com/user-attachments/assets/a215df70-b6aa-4617-ba83-4225eaf189f5)
+
